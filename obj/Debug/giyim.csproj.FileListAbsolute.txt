@@ -1,0 +1,324 @@
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\giyim.exe.config
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\giyim.exe
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\giyim.pdb
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.AssemblyReference.cache
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmKategori.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmMarka.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmMusteriListele.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.FrmMşteri.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmsatis.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmSatışListele.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmurunlistele.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.frmÜrünEkle.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.Properties.Resources.resources
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.GenerateResource.cache
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.CoreCompileInputs.cache
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.exe
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.pdb
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.ResolveComReference.cache
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.Licensing.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.SuggestedBindingRedirects.cache
+D:\giyim_okulda_gosterilcek\giyim\giyim\obj\Debug\giyim.csproj.CopyComplete
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\BouncyCastle.Crypto.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\itextsharp.dll
+D:\giyim_okulda_gosterilcek\giyim\giyim\bin\Debug\itextsharp.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\giyim.exe.config
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\giyim.exe
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\giyim.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.Licensing.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\itextsharp.dll
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\bin\Debug\itextsharp.xml
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.ResolveComReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmKategori.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMarka.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMusteriListele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.FrmMşteri.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmsatis.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmSatışListele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmurunlistele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.frmÜrünEkle.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.Properties.Resources.resources
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CopyComplete
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.exe
+C:\Users\oguzh\OneDrive\Masaüstü\giyim_okul\giyim\giyim\obj\Debug\giyim.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\giyim.exe.config
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\giyim.exe
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\giyim.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.Licensing.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\itextsharp.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\bin\Debug\itextsharp.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.ResolveComReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmKategori.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMarka.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMusteriListele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.FrmMşteri.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmsatis.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmSatışListele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmurunlistele.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.frmÜrünEkle.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.Properties.Resources.resources
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CopyComplete
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.exe
+C:\Users\oguzh\OneDrive\Masaüstü\Müdür'e Göstermelik Projeler\giyim_okul\giyim\giyim\obj\Debug\giyim.pdb
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\giyim.exe.config
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\giyim.exe
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\giyim.pdb
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\itextsharp.xml
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.AssemblyReference.cache
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.SuggestedBindingRedirects.cache
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.ResolveComReference.cache
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmKategori.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMarka.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmMusteriListele.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.FrmMşteri.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmsatis.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmSatışListele.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmurunlistele.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.frmÜrünEkle.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.Properties.Resources.resources
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.GenerateResource.cache
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CoreCompileInputs.cache
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.csproj.CopyComplete
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.exe
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\obj\Debug\giyim.pdb
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\bin\Debug\Stok_Takip.mdf
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\bin\Debug\Stok_Takip_log.ldf
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\obj\Debug\Stok_Takip.mdf
+C:\Users\SdWolq\Desktop\PROGRAMLAR\giyim_okul\giyim\giyim\bin\Debug\obj\Debug\Stok_Takip_log.ldf
